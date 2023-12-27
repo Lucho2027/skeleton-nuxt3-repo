@@ -13,13 +13,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: 'var(--color-primary)',
-        secondary: 'var(--color-secondary)',
-        onPrimary: 'var(--color-onPrimary)',
-        onSecondary: 'var(--color-onSecondary)',
-        planCardPlus: 'var(--color-planCardPlus)',
-        planCardStd: 'var(--color-planCardStd)',
-        selected: 'var(--color-selected)',
         gray: colors.gray,
         red: colors.red,
         green: colors.green
